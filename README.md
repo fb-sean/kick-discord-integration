@@ -31,3 +31,9 @@ But wait, there's more! Kick Bot offers additional features to take your Discord
 - **Subscriber Roles**: Create interactive messages where users can click a button to receive subscriber roles. Perfect for multiple streamers on one server. Use `</subscriber-role:1119986436817555567>` to set it up effortlessly.
 
 Get ready to level up your Discord server with Kick Bot! 📈✨ Experience the thrill of live streaming like never before. Invite Kick Bot today and embrace the excitement!
+
+Links:
+- https://kickbot.gg
+- https://guide.kickbot.gg
+- https://help.kickbot.gg
+- https://top.gg/bot/1118578278299611246
