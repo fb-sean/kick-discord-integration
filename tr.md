@@ -1,41 +1,31 @@
-🎉 **Kick Bot'u Tanıtıyoruz: Discord'da Yayın Deneyimini Geliştirin!** 🚀
+### Canlı Bildirimler
 
-Favori Kick yayıncılarınızın canlı yayınlarını kaçırmaktan bıktınız mı? Artık bu sorun yok! Kick Bot, Discord'da yayın deneyiminizi devrimleştirmek için burada. 🌟
+> Kick bot ile en sevdiğiniz yayıncı için hızlı ve kolay bir şekilde **bildirim** ayarlayabilirsiniz!
 
-Kick Bot, bir yayıncı canlı yayına başladığı anda harekete geçerek sizi anında bilgilendiriyor ve favori yayıncılarınızın çevrimiçi olduğu her anı kaçırmıyorsunuz. Anlık bildirimler sayesinde her zaman haberdar olacaksınız. 🔔
+![duyurular](https://images-ext-1.discordapp.net/external/nU3YZlYycrUcn8AeL04vSoH3OKKudzxWFLpj6uwITao/https/kick.bot/images/examples/announcements.png)
 
-Kick Bot'un kurulumu oldukça kolay olup karmaşık kurulumlar veya karmaşık izinler gerektirmez. Her şey Discord içinde yönetilir, kullanıcı dostu ve sorunsuzdur. ⏰
+### Sayaçlar
 
-Ve en güzel tarafı? Kick Bot tamamen ücretsizdir! Evet, tüm bu muhteşem özelliklere sınırsız erişim sağlayabilirsiniz, hiçbir maliyet yok. Sınırsız ve kesintisiz yayın keyfinin tadını çıkarın. 🎉
+> Kick.com istatistiklerinizi Discord içinde göstermek ister misiniz? Bu, **Sayaçlar** ile çok kolay!
 
-Lütfen unutmayın, Kick Bot Kick ile ilgili bildirimler sağlasa da resmi olarak Kick sitesiyle ilişkili değildir. Yine de Kick Bot'a güvenebilir, Kick topluluğuyla bağlantıda kalabilirsiniz. ⚡️🎮
+![sayaçlar](https://images-ext-1.discordapp.net/external/4axnZvj-Oq5LswVEw1cgZdq71eqAQ6Ey40NLg5fRWdk/https/kick.bot/images/examples/counters.png)
 
-Kick Bot ile yayın deneyiminizi üst seviyeye taşımaya hazır mısınız? İşte başlamanın yolu:
+### Abone Lider Tabloları
 
-1️⃣ **Kick Bot'u Davet Edin**: Kick Bot'u Discord sunucunuza davet etmek için [buraya](https://kickbot.gg) tıklayın.
+> Discord içinde, tüm zamanların, aylık veya haftalık en iyi 3, 5 veya 10 hediye gönderenini gösterin!
 
-2️⃣ **Yayıncı Bildirimlerini Ayarlayın**: Canlı yayın bildirimleri almak için `</add:1118616582185300059>` komutunu kullanın ve yayıncının Kick kullanıcı adını ekleyin.
+![lider tabloları](https://images-ext-1.discordapp.net/external/Di7M4S47c6gb_ZJdj_8ButrHUrmfvFoyZ8_fPgPgcKI/https/kick.bot/images/examples/leaderboards.png)
 
-3️⃣ **Yayınların Keyfini Çıkarın**: Kick Bot gerisini halleder! Rahatlayın, keyfini çıkarın ve heyecan verici Kick yayınlarının tadını çıkarın.
+### Abone Rolleri
 
-Kick Bot'un belirtilen kanalı görüntüleme ve mesaj yazma iznine sahip olduğundan emin olun, böylece sorunsuz işlevselliği sağlanır. 📝
+> Kullanıcılarınıza Discord'daki abone rütbesini harika bir rol ile senkronize etmelerine izin verin!
 
-Ama bekleyin, daha da fazlası var! Kick Bot, Discord sunucunuzu bir üst seviyeye taşımak için ek özellikler sunar:
+![abone rolü](https://images-ext-1.discordapp.net/external/cM3Ar30qlE5Z1ko_JvCP5c7WJOoLeB-A2PE8kmkgPwQ/https/kick.bot/images/examples/subsriberrole.png)
 
-- **Sayaçlar**: `</counter add:1118815254873395240>` komutunu kullanarak yayıncı istatistiklerini sunucunuzda görüntüleyin. Kişiselleştirilmiş bir dokunuş için kanalı ve adı özelleştirin.
+### Başlamak İçin:
 
-- **Lider Tabloları**: `</leaderboard add:111
+1️⃣ **Kick Bot'u Davet Edin**: Discord sunucunuza Kick Bot'u davet etmek için https://kick.bot adresine tıklayın.
 
-8940428469817446>` komutunu kullanarak sub hediye lider tablolarını doğrudan Discord sunucunuza ekleyin. Görsel olarak etkileyici bir deneyim için tercih ettiğiniz stili veya kanalı seçin.
+2️⃣ **Yayıncı Bildirimlerini Ayarlayın**: Canlı yayın bildirimleri almak için yayıncının Kick kullanıcı adını takip eden `/add` komutunu kullanın.
 
-- **Tam JSON Desteği**: Özel mesaj verileri ve gömülü içerikleri kullanarak JSON'ın gücünden faydalanın. Çok yönlü içerik sunumu için `/add` veya `/edit` komutunu kullanın ve JSON verilerinizi yapıştırın.
-
-- **Abone Rolleri**: Kullanıcıların bir düğmeye tıklayarak abone rollerini alabileceği etkileşimli mesajlar oluşturun. Bir sunucudaki birden fazla yayıncı için idealdir. Kolayca kurmak için `</subscriber-role:1119986436817555567>` komutunu kullanın.
-
-Discord sunucunuzu Kick Bot ile bir üst seviyeye taşımaya hazır olun! 📈✨ Canlı yayınların heyecanını hiç olmadığı kadar yaşayın. Kick Bot'u davet edin ve heyecana kapılın!
-
-Links:
-- https://kickbot.gg
-- https://guide.kickbot.gg
-- https://help.kickbot.gg
-- https://top.gg/bot/1118578278299611246
+3️⃣ **Yayınların Keyfini Çıkarın**: Gerisini Kick Bot halleder! Rahatlayın ve heyecan verici Kick yayınlarının tadını çıkarın.
