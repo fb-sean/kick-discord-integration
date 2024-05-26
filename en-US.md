@@ -1,39 +1,33 @@
-🎉 **Introducing Kick Bot: Enhance Your Streaming Experience on Discord!** 🚀
+### Live Notifications
 
-Are you tired of missing out on live streams from your favorite Kick streamers? Look no further! Kick Bot is here to revolutionize your streaming experience on Discord. 🌟
+> With Kick bot you can simply and fast set up a **notification** for your favorite streamer!
 
-Kick Bot is a dynamic and reliable solution that springs into action the moment a streamer goes live, ensuring you never miss a moment of the action. With instant notifications, you'll always be in the know when your favorite streamers are online. 🔔
+![announcements](https://images-ext-1.discordapp.net/external/nU3YZlYycrUcn8AeL04vSoH3OKKudzxWFLpj6uwITao/https/kick.bot/images/examples/announcements.png)
 
-Setting up Kick Bot is a breeze, with no complicated installations or convoluted permissions required. Everything is managed directly within Discord, making it user-friendly and hassle-free. ⏰
+### Counters
 
-And the best part? Kick Bot is completely free to use! That's right, unlimited access to all the incredible features without any cost. Enjoy uninterrupted streaming bliss without any limitations. 🎉
+> Wanted to show your Kick.com stats inside of Discord? That's pretty easy with **Counters**!
 
-Please note that while Kick Bot provides notifications for Kick, it is not officially affiliated with the Kick site. Rest assured, you can rely on Kick Bot to keep you connected to the Kick community. ⚡️🎮
+![counters](https://images-ext-1.discordapp.net/external/4axnZvj-Oq5LswVEw1cgZdq71eqAQ6Ey40NLg5fRWdk/https/kick.bot/images/examples/counters.png)
 
-Ready to supercharge your streaming experience with Kick Bot? Here's how to get started:
+### Subscriber Leaderboards
 
-1️⃣ **Invite Kick Bot**: Click [here](https://kickbot.gg) to invite Kick Bot to your Discord server.
+> Show your top 3, 5 or 10 all time, monthly or weekly top gifter inside your Discord!
 
-2️⃣ **Set Up Streamer Notifications**: Use the command `</add:1118616582185300059>` followed by the streamer's Kick username to receive live stream notifications.
+![leaderboards](https://images-ext-1.discordapp.net/external/Di7M4S47c6gb_ZJdj_8ButrHUrmfvFoyZ8_fPgPgcKI/https/kick.bot/images/examples/leaderboards.png)
+
+### Subscriber Roles
+
+> Let your users sync there subscriber rank in your discord with a cool role!
+
+![subsriberrole](https://images-ext-1.discordapp.net/external/cM3Ar30qlE5Z1ko_JvCP5c7WJOoLeB-A2PE8kmkgPwQ/https/kick.bot/images/examples/subsriberrole.png)
+
+
+### Here's how to get started:
+
+
+1️⃣ **Invite Kick Bot**: Click https://kick.bot to invite Kick Bot to your Discord server.
+
+2️⃣ **Set Up Streamer Notifications**: Use the command `/add` followed by the streamer's Kick username to receive live stream notifications.
 
 3️⃣ **Enjoy the Streams**: Kick Bot will handle the rest! Sit back, relax, and enjoy the exhilarating Kickstreams.
-
-Ensure that Kick Bot has permission to view and write messages in the designated channel to enable seamless functionality. 📝
-
-But wait, there's more! Kick Bot offers additional features to take your Discord server to the next level:
-
-- **Counters**: Display streamer stats on your server using `</counter add:1118815254873395240>`. Customize the channel and name for a personalized touch.
-
-- **Leaderboards**: Set up sub gifts leaderboards directly in your Discord server with `</leaderboard add:1118940428469817446>`. Choose your preferred style or channel for a visually engaging experience.
-
-- **Full JSON Support**: Leverage the power of JSON by utilizing custom message payloads and embeds. Use the `/add` or `/edit` command and paste your JSON data for versatile content presentation.
-
-- **Subscriber Roles**: Create interactive messages where users can click a button to receive subscriber roles. Perfect for multiple streamers on one server. Use `</subscriber-role:1119986436817555567>` to set it up effortlessly.
-
-Get ready to level up your Discord server with Kick Bot! 📈✨ Experience the thrill of live streaming like never before. Invite Kick Bot today and embrace the excitement!
-
-Links:
-- https://kickbot.gg
-- https://guide.kickbot.gg
-- https://help.kickbot.gg
-- https://top.gg/bot/1118578278299611246
