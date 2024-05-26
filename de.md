@@ -1,35 +1,32 @@
-🎉 **Vorstellung des Kick Bots: Verbessere dein Streaming-Erlebnis auf Discord!** 🚀
+### Live-Benachrichtigungen
 
-Bist du es leid, die Live-Streams deiner Lieblings-Kick-Streamer zu verpassen? Dann bist du hier genau richtig! Kick Bot ist da, um dein Streaming-Erlebnis auf Discord zu revolutionieren. 🌟
+> Mit dem Kick Bot können Sie schnell und einfach eine **Benachrichtigung** für Ihren Lieblingsstreamer einrichten!
 
-Kick Bot ist eine dynamische und zuverlässige Lösung, die sofort aktiv wird, sobald ein Streamer live geht und dafür sorgt, dass du keinen Moment verpasst. Mit sofortigen Benachrichtigungen bist du immer informiert, wenn deine Lieblings-Streamer online sind. 🔔
+![Ankündigungen](https://images-ext-1.discordapp.net/external/nU3YZlYycrUcn8AeL04vSoH3OKKudzxWFLpj6uwITao/https/kick.bot/images/examples/announcements.png)
 
-Die Einrichtung des Kick Bots ist kinderleicht und erfordert keine komplizierten Installationen oder verworrenen Berechtigungen. Alles wird direkt in Discord verwaltet, was benutzerfreundlich und problemlos ist. ⏰
+### Zähler
 
-Und das Beste daran? Kick Bot ist komplett kostenlos! Genieße uneingeschränkten Zugriff auf alle unglaublichen Funktionen, ohne jegliche Kosten. Erlebe unterbrechungsfreies Streaming-Glück ohne Einschränkungen. 🎉
+> Möchten Sie Ihre Kick.com-Statistiken in Discord anzeigen? Das geht ganz einfach mit **Zählern**!
 
-Bitte beachte, dass der Kick Bot zwar Benachrichtigungen für Kick bietet, aber nicht offiziell mit der Kick-Website verbunden ist. Du kannst dich jedoch darauf verlassen, dass Kick Bot dich mit der Kick-Community verbindet. ⚡️🎮
+![Zähler](https://images-ext-1.discordapp.net/external/4axnZvj-Oq5LswVEw1cgZdq71eqAQ6Ey40NLg5fRWdk/https/kick.bot/images/examples/counters.png)
 
-Bereit, dein Streaming-Erlebnis mit Kick Bot auf ein neues Level zu heben? So geht's los:
+### Abonnenten-Ranglisten
 
-1️⃣ **Lade den Kick Bot ein**: Klicke [hier](https://kickbot.gg), um Kick Bot auf deinen Discord-Server einzuladen.
+> Zeigen Sie Ihre Top 3, 5 oder 10 der besten Geschenkgeber aller Zeiten, des Monats oder der Woche in Ihrem Discord!
 
-2️⃣ **Richte Streamer-Benachrichtigungen ein**: Verwende den Befehl `</add:1118616582185300059>` gefolgt vom Kick-Benutzernamen des Streamers, um Benachrichtigungen über Live-Streams zu erhalten.
+![Ranglisten](https://images-ext-1.discordapp.net/external/Di7M4S47c6gb_ZJdj_8ButrHUrmfvFoyZ8_fPgPgcKI/https/kick.bot/images/examples/leaderboards.png)
 
-3️⃣ **Genieße die Streams**: Kick Bot übernimmt den Rest! Lehne dich zurück, entspanne dich und genieße die mitreißenden Kick-Streams.
+### Abonnenten-Rollen
 
-Stelle sicher, dass Kick Bot die Berechtigung hat, Nachrichten im vorgesehenen Kanal anzusehen und zu schreiben, um eine reibungslose Funktionalität zu gewährleisten. 📝
+> Lassen Sie Ihre Benutzer ihren Abonnentenstatus in Ihrem Discord mit einer coolen Rolle synchronisieren!
 
-Aber das ist noch nicht alles! Kick Bot bietet zusätzliche Funktionen, um deinen Discord-Server aufzuwerten:
+![Abonnentenrolle](https://images-ext-1.discordapp.net/external/cM3Ar30qlE5Z1ko_JvCP5c7WJOoLeB-A2PE8kmkgPwQ/https/kick.bot/images/examples/subsriberrole.png)
 
-- **Zähler**: Zeige Streamer-Statistiken auf deinem Server an mit `</counter add:1118815254873395240>`. Passe den Kanal und den Namen nach deinen Wünschen an.
+### So fangen Sie an:
 
-- **Bestenlisten**: Erstelle Sub-Geschenk-Bestenlisten direkt in deinem Discord-Server mit `</leaderboard add:1118940428469817446>`. Wähle deinen bevorzugten Stil oder Kanal für ein visuell ansprechendes Erlebnis.
 
-- **Vollständige JSON-Unterstützung**: Nutze die Kraft von JSON, indem du benutzerdefinierte Nachrichten-Payloads und Einbettungen verwendest. Verwende den Befehl `/add` oder `/edit` und füge deine JSON-Daten ein, um
+1️⃣ **Kick Bot einladen**: Klicken Sie auf https://kick.bot, um den Kick Bot auf Ihrem Discord-Server einzuladen.
 
-Links:
-- https://kickbot.gg
-- https://guide.kickbot.gg
-- https://help.kickbot.gg
-- https://top.gg/bot/1118578278299611246
+2️⃣ **Streamer-Benachrichtigungen einrichten**: Verwenden Sie den Befehl `/add` gefolgt vom Kick-Benutzernamen des Streamers, um Live-Stream-Benachrichtigungen zu erhalten.
+
+3️⃣ **Genießen Sie die Streams**: Kick Bot kümmert sich um den Rest! Lehnen Sie sich zurück, entspannen Sie sich und genießen Sie die aufregenden Kickstreams.
