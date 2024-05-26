@@ -1,41 +1,31 @@
-🎉 **Découvrez Kick Bot : Améliorez votre expérience de streaming sur Discord !** 🚀
+### Notifications en Direct
 
-Marre de manquer les diffusions en direct de vos streamers préférés sur Kick ? Ne vous inquiétez plus ! Kick Bot est là pour révolutionner votre expérience de streaming sur Discord. 🌟
+> Avec Kick bot, vous pouvez configurer rapidement et simplement une **notification** pour votre streamer préféré !
 
-Kick Bot entre en action dès qu'un streamer lance une diffusion en direct, vous assurant de ne manquer aucun moment. Grâce à des notifications instantanées, vous serez toujours au courant lorsque vos streamers favoris seront en ligne. 🔔
+![annonces](https://images-ext-1.discordapp.net/external/nU3YZlYycrUcn8AeL04vSoH3OKKudzxWFLpj6uwITao/https/kick.bot/images/examples/announcements.png)
 
-La configuration de Kick Bot est extrêmement simple, sans installations complexes ni autorisations confuses. Tout se gère directement depuis Discord, ce qui le rend convivial et sans tracas. ⏰
+### Compteurs
 
-Et la meilleure partie ? Kick Bot est entièrement gratuit ! Oui, cela signifie un accès illimité à toutes ces fonctionnalités incroyables sans aucun frais. Aucune limite, juste un pur plaisir de streaming ininterrompu. 🎉
+> Vous voulez afficher vos statistiques Kick.com dans Discord ? C'est très facile avec les **Compteurs** !
 
-Veuillez noter que bien que Kick Bot soit conçu pour fournir des notifications pour Kick, il n'est pas affilié au site Kick lui-même. Cependant, vous pouvez faire confiance à Kick Bot pour rester connecté à la communauté Kick. ⚡️🎮
+![compteurs](https://images-ext-1.discordapp.net/external/4axnZvj-Oq5LswVEw1cgZdq71eqAQ6Ey40NLg5fRWdk/https/kick.bot/images/examples/counters.png)
 
-Alors, prêt à booster votre expérience de streaming avec Kick Bot ? Voici comment commencer :
+### Classements des Abonnés
 
-1️⃣ **Invitez Kick Bot** : Cliquez [ici](https://kickbot.gg) pour inviter Kick Bot sur votre serveur Discord.
+> Affichez vos top 3, 5 ou 10 donateurs de tous les temps, du mois ou de la semaine dans votre Discord !
 
-2️⃣ **Configurez les Notifications des Streamers** : Utilisez la commande `</add:1118616582185300059>` avec le nom d'utilisateur Kick du streamer pour recevoir les notifications de ses diffusions en direct.
+![classements](https://images-ext-1.discordapp.net/external/Di7M4S47c6gb_ZJdj_8ButrHUrmfvFoyZ8_fPgPgcKI/https/kick.bot/images/examples/leaderboards.png)
 
-3️⃣ **Profitez de vos diffusions** : Kick Bot s'occupe du reste ! Détendez-vous et profitez de l'excitation des diffusions sur Kick.
+### Rôles d'Abonnés
 
-Assurez-vous que Kick Bot ait les autorisations nécessaires pour afficher et envoyer des messages dans le canal désigné, afin de garantir un fonctionnement sans problème. 📝
+> Permettez à vos utilisateurs de synchroniser leur rang d'abonné dans votre discord avec un rôle cool !
 
-Mais ce n'est pas tout ! Kick Bot propose des fonctionnalités supplémentaires pour améliorer votre serveur Discord :
+![rôle d'abonné](https://images-ext-1.discordapp.net/external/cM3Ar30qlE5Z1ko_JvCP5c7WJOoLeB-A2PE8kmkgPwQ/https/kick.bot/images/examples/subsriberrole.png)
 
-- **Compteurs** : Affichez les statistiques de streaming sur votre serveur avec une configuration rapide `</counter add:1118815254873395240>`. Personnalisez le nom et le canal selon vos préférences.
+### Comment commencer :
 
-- **Tableaux des Leaders** : Mettez en place un tableau des leaders affichant les cadeaux d'abonnement directement sur votre serveur Discord avec `</leaderboard add:1118940428469817446>`. Choisissez le style ou le canal souhaité pour une expérience visuellement attrayante.
+1️⃣ **Inviter Kick Bot** : Cliquez sur https://kick.bot pour inviter Kick Bot à votre serveur Discord.
 
-- **Support JSON Complet** : Utilisez un message complet en JSON ou une incorporation personnalisée. `</add>` ou `</edit>` suivi de la commande, puis collez les données JSON. Assurez-vous que Kick Bot dispose des autorisations d'affichage des liens intégrés.
+2️⃣ **Configurer les Notifications de Streamers** : Utilisez la commande `/add` suivie du nom d'utilisateur du streamer sur Kick pour recevoir des notifications de streaming en direct.
 
-- **Rôles d'Abonnés** : Configurez facilement un message permettant à vos utilisateurs de cliquer sur un bouton pour obtenir leur rôle d'abonné. Disponible pour plusieurs streamers sur un seul serveur. Utilisez `</subscriber-role:111
-
-9986436817555567>` pour configurer.
-
-Préparez-vous à élever votre serveur Discord avec Kick Bot ! 📈✨ Profitez pleinement des diffusions en direct. Invitez Kick Bot et plongez dans l'excitation du streaming !
-
-Links:
-- https://kickbot.gg
-- https://guide.kickbot.gg
-- https://help.kickbot.gg
-- https://top.gg/bot/1118578278299611246
+3️⃣ **Profitez des Streams** : Kick Bot s'occupera du reste ! Détendez-vous et profitez des streams passionnants de Kick.
